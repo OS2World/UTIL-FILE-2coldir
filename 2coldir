@@ -1,0 +1,8 @@
+#
+# This is a makefile to build 2coldir.exe using Microsoft make.exe.
+#
+
+CFLAGS= -Ox -Zp
+
+2coldir.exe:   2coldir.c
+	cl $(CFLAGS) 2coldir.c

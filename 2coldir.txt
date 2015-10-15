@@ -1,0 +1,20 @@
+2coldir is a crude attempt to imitate for os/2 the MS-Dos ddir PD
+program that is available on many BBS's. It is a modified version
+of the LISTDIR program from Iabucci's book 'OS/2 programmers guide'.
+
+Known deficiencies:
+
+-   works correctly only for disks with 2048 Kb blocks to accomodate
+    for screen size
+
+-   no sorted directories
+
+-   no space on disk left message
+
+
+Feel free to modify, enhance and/or distribute as you like.
+
+Victor S. Roos
+TFDL/ECIT
+
+Bitnet: ECIT@HWALHW50
